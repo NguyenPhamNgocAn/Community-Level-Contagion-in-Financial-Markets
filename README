@@ -1,4 +1,4 @@
 This repo is for the Financial Contagion project where we examine how stocks, US ETFs and cryptocurrencies transmit/receive shocks to/from each other. 
 The contagion is observed at a macro level - within and between communities of assets. This is our novel approach that distinguish our study from the existing literature where ones mainly
 focus on the contagion between individual assets.
-Furthermore, we observe the phenomena across different time windows and market conditions to identify possible patterns in each market condtion. The time period is from April 2019 until May 2023.
+Furthermore, we observe the phenomena across different time windows and market conditions to identify possible patterns in each market condition. The time period is from April 2019 until May 2023.
